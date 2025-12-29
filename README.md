@@ -1,1 +1,2 @@
 # Positive Unlabeled (PU) Learning Framework: Neural Network coupled with non negative PU (nnPU) loss function
+This repository contains the complete computational framework and database for our AI-driven discovery pipeline that identified NEO100—a promising sonosensitizer candidate for brain tumor therapy. Our novel approach combines machine learning with advanced 3D bioprinting to accelerate the development of precision sonodynamic therapies (SDT) for treatment-resistant brain cancers.
