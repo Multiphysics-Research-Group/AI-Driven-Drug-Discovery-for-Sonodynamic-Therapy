@@ -1,1 +1,1 @@
-# AI-Driven-Drug-Discovery-for-Sonodynamic-Therapy
+# Sonosensitizer-Discovery-for-Sonodynamic-Therapy-using-Positive-Unlabled-Learning
